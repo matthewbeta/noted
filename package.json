@@ -1,0 +1,27 @@
+{
+  "name": "noted",
+  "version": "0.0.1",
+  "description": "A note taking app makde with Ember.js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matthewbeta/noted.git"
+  },
+  "author": "@matthewbeta",
+  "license": "DBAD https://raw.github.com/philsturgeon/dbad/master/LICENSE-en.md",
+  "bugs": {
+    "url": "https://github.com/matthewbeta/noted/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-contrib-jshint": "~0.7.1",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-ember-templates": "~0.4.16",
+    "grunt-contrib-stylus": "~0.10.0"
+  }
+}
